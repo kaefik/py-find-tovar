@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.chrome.options import Options
 
-urls = "https://www.dns-shop.ru/"
+urls = "https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/"
 
 # флаг скрытого запуска браузера
 hidden = False 
